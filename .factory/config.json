@@ -1,0 +1,8 @@
+{
+  "rutasSensibles": [],
+  "maxLineasDiff": 400,
+  "maxRondas": 3,
+  "revisorExterno": "ninguno",
+  "modelos": { "planificador": "opus", "implementador": "sonnet", "revisor": "opus" },
+  "urlDespliegue": "https://jordin-garcia.github.io/proyecto-prueba/"
+}
